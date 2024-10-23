@@ -1,0 +1,14 @@
+Ocean Odyssey
+This software contains the files required to run the game called Ocean Odyssey, this is a educational game where you race through the sea trying to avoid obstacles. When an obstacle is hit a question is presented.
+Required software:
+Java version 19 or newer
+JSON
+
+There are user accounts in this software however you may make them and set them up as you go.
+
+A detailed step by step guide for building your software (compiling it from source code). This should include details on how to obtain and install any third party libraries.
+A detailed step by step guide on how to run your already built (compiled) software.
+A user guide, that explains how to use your software.
+If your software uses accounts, a password, or pin you must include any account username/password, pin, etc. required to use your software.
+You must also include details on how to access your teacher mode and steps to build/install it if it is a separate program.
+Anything else that would be helpful for the TA marking your project to know.
